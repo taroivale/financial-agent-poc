@@ -1,0 +1,9 @@
+Department,Budget_USD_M,Actual_USD_M,Variance_USD_M,Variance_Pct
+Engineering,3240,3412,172,5.3
+Sales,2180,2034,-146,-6.7
+Marketing,890,923,33,3.7
+Customer Success,1120,1087,-33,-2.9
+G&A,760,1031,271,35.7
+R&D,2100,2249,149,7.1
+Legal & Compliance,312,298,-14,-4.5
+IT Infrastructure,680,712,32,4.7

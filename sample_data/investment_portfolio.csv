@@ -1,0 +1,8 @@
+Asset_Class,Allocation_Pct,Market_Value_USD_M,Cost_Basis_USD_M,Unrealized_GL_USD_M,YTD_Return_Pct,Duration_Years,Credit_Rating
+US Treasury Bills,22.0,1505,1500,5,5.2,0.5,AAA
+Corporate Bonds (AAA),18.0,1232,1215,17,4.8,3.2,AAA
+Money Market Funds,15.0,1027,1027,0,5.1,0.1,AAA
+S&P 500 Index ETF,20.0,1369,1124,245,26.3,,
+International Equities,12.0,821,756,65,15.4,,
+Real Estate (REIT),8.0,548,512,36,8.7,,
+Cash Equivalents,5.0,342,342,0,5.1,0.0,AAA

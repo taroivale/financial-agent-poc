@@ -1,0 +1,55 @@
+Month,Region,Product,Sales_USD_M
+Jan,North America,Cloud Services,312
+Feb,North America,Cloud Services,328
+Mar,North America,Cloud Services,345
+Apr,North America,Cloud Services,361
+May,North America,Cloud Services,378
+Jun,North America,Cloud Services,401
+Jan,North America,Enterprise Software,421
+Feb,North America,Enterprise Software,418
+Mar,North America,Enterprise Software,435
+Apr,North America,Enterprise Software,428
+May,North America,Enterprise Software,441
+Jun,North America,Enterprise Software,456
+Jan,North America,Professional Services,156
+Feb,North America,Professional Services,148
+Mar,North America,Professional Services,162
+Apr,North America,Professional Services,154
+May,North America,Professional Services,159
+Jun,North America,Professional Services,167
+Jan,Europe,Cloud Services,187
+Feb,Europe,Cloud Services,195
+Mar,Europe,Cloud Services,208
+Apr,Europe,Cloud Services,218
+May,Europe,Cloud Services,228
+Jun,Europe,Cloud Services,243
+Jan,Europe,Enterprise Software,234
+Feb,Europe,Enterprise Software,229
+Mar,Europe,Enterprise Software,241
+Apr,Europe,Enterprise Software,238
+May,Europe,Enterprise Software,245
+Jun,Europe,Enterprise Software,253
+Jan,Europe,Professional Services,89
+Feb,Europe,Professional Services,84
+Mar,Europe,Professional Services,92
+Apr,Europe,Professional Services,87
+May,Europe,Professional Services,91
+Jun,Europe,Professional Services,96
+Jan,Asia Pacific,Cloud Services,121
+Feb,Asia Pacific,Cloud Services,128
+Mar,Asia Pacific,Cloud Services,139
+Apr,Asia Pacific,Cloud Services,148
+May,Asia Pacific,Cloud Services,157
+Jun,Asia Pacific,Cloud Services,169
+Jan,Asia Pacific,Enterprise Software,156
+Feb,Asia Pacific,Enterprise Software,152
+Mar,Asia Pacific,Enterprise Software,163
+Apr,Asia Pacific,Enterprise Software,159
+May,Asia Pacific,Enterprise Software,167
+Jun,Asia Pacific,Enterprise Software,174
+Jan,Asia Pacific,Professional Services,45
+Feb,Asia Pacific,Professional Services,42
+Mar,Asia Pacific,Professional Services,48
+Apr,Asia Pacific,Professional Services,46
+May,Asia Pacific,Professional Services,49
+Jun,Asia Pacific,Professional Services,53
