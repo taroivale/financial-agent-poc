@@ -1,7 +1,25 @@
+# Python
 .venv/
 __pycache__/
 *.pyc
-.env
-chroma_db/
+*.pyo
 *.egg-info/
+dist/
+build/
+
+# Environment
+.env
+
+# Vector store (regenerated at runtime)
+chroma_db/
+
+# IDE / Editor
 .claude/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# OS
+Thumbs.db
